@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @oseip.... a Security Researcher
-- 👀 I’m interested in Hacking, software development, malware and reverse engineering
-- 🌱 I’m currently learning Malware Analysis
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Prince Osei Junior
+CopyRight 2022
